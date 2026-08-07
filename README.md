@@ -1,6 +1,7 @@
 # QEMU-QMGR
 A simple VM manager for QEMU written in C++.
 
+WARNING: This will no longer be actively maintained by ayoKolossos. If you would like to maintain this yourself, please fork this repository and make an issue linking to it.
 # Build instructions
 
 **Linux (Debian/Ubuntu):**  
